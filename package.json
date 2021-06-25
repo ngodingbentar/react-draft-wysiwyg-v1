@@ -1,0 +1,22 @@
+{
+  "name": "react-draft-wysiwyg-v1",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "draft-js": "0.10.4",
+    "draftjs-to-html": "^0.9.1",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-draft-wysiwyg": "1.12.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
